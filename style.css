@@ -1,3 +1,15 @@
 .carousel{
     height: calc(100vh - 56px);
 }
+
+.lokalita_p{
+    width: 350px;
+}
+
+.historie img{
+    border-radius: 6px;
+}
+
+.lokalita img{
+    border-radius: 6px;
+}
