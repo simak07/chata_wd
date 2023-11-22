@@ -2,6 +2,19 @@
     height: calc(100vh - 56px);
 }
 
+.carousel .carousel-item{
+    height: calc(100vh - 56px);
+}
+
+.carousel-item img{
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    min-height: calc(100vh - 56px);
+    max-height: calc(100vh - 56px);
+}
+
 .lokalita_p{
     width: 350px;
 }
